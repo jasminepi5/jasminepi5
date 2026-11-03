@@ -50,9 +50,6 @@ I mainly build web and mobile apps, mostly with TypeScript/JavaScript, Kotlin an
 
 <!-- Default Layout -->
 
-![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminepi5)
-
-<!-- Compact Layout (Takes up less vertical space)
-![Top Langs Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminepi5&layout=compact) -->
+![Language Stats](stats/leaderboard_by_lines.png)
 
 <img src="https://streak-stats.demolab.com?user=jasminepi5&theme=vue-dark&hide_border=true" alt="jasminepi5's GitHub streak" />
