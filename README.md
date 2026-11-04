@@ -30,7 +30,7 @@ I mainly build web and mobile apps, mostly with TypeScript/JavaScript, Kotlin an
 
 ### I'm currently learning
 
-[![Docker, Astro](https://skillicons.dev/icons?i=docker,astro)](https://skillicons.dev)
+[![Docker, Astro](https://skillicons.dev/icons?i=docker,astro,cloudflare)](https://skillicons.dev)
 
 ### Coursework exposure only (so far)
 
