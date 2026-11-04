@@ -6,6 +6,9 @@
 
 I mainly build web and mobile apps, mostly with TypeScript/JavaScript, Kotlin and Postgres. Currently looking for entry-level software developer roles in Melbourne.
 
+- LinkedIn: [jasmine-irawan](https://www.linkedin.com/in/jasmine-irawan)
+- Portfolio website: [jasmineirawan.dev](https://jasmineirawan.dev)
+
 ## Projects
 
 **[Mogo](https://github.com/jasminepi5/mogo)**: Android rideshare app built as my Monash capstone (FIT3161/3162, HD). Kotlin, MVVM, Supabase and the Google Maps SDK. I mainly worked on backend and testing.
