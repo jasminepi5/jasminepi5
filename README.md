@@ -44,7 +44,7 @@ I mainly build web and mobile apps, mostly with TypeScript/JavaScript, Kotlin an
 
 <!-- Frameworks / libraries, misc. tools -->
 
-[![Angular, Bootstrap, Firebase, MongoDB, Google Cloud, GitLab, Postman](https://skillicons.dev/icons?i=angular,bootstrap,firebase,mongodb,gcp,gitlab,postman)](https://skillicons.dev)
+[![Angular, Bootstrap, Firebase, MongoDB, Google Cloud, GitLab, Postman](https://skillicons.dev/icons?i=angular,bootstrap,firebase,mongodb,gcp,gitlab)](https://skillicons.dev)
 
 <!-- ## GitHub stats -->
 
